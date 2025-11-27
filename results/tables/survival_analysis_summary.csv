@@ -1,0 +1,14 @@
+Gene,Biological_Role,Expected,P_Value,Significance
+F5,Harmful - Factor V Leiden,Low expression better,0.4973,Not significant
+F2,Neutral - Prothrombin,Unclear,0.6352,Not significant
+SERPINC1,Beneficial - Antithrombin,High expression better,0.2565,Not significant
+PROC,Beneficial - Protein C,High expression better,0.2933,Not significant
+PROS1,Beneficial - Protein S,High expression better,0.9075,Not significant
+FGG,Neutral - Fibrinogen,Unclear,0.1644,Not significant
+FGA,Neutral - Fibrinogen,Unclear,0.5633,Not significant
+FGB,Neutral - Fibrinogen,Unclear,0.4707,Not significant
+F3,Harmful - Tissue factor,Low expression better,0.8993,Not significant
+PLAT,Beneficial - tPA (fibrinolytic),High expression better,0.3651,Not significant
+PLAU,Harmful - Promotes metastasis,Low expression better,0.0111,Significant
+SERPINE1,Harmful - Fibrinolysis inhibitor,Low expression better,0.6293,Not significant
+THBD,Beneficial - Thrombomodulin,High expression better,0.5223,Not significant
